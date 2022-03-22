@@ -1,0 +1,15 @@
+.header{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgba(0, 0, 0, 0.801);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.menu-list a {
+    margin-right: 70px;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
